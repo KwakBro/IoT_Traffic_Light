@@ -123,7 +123,6 @@ typedef struct ARG
  
 void* traffic_light(void * arg)
 {   //this function means control traffic light
-	//@copyright Lee Dae Hyun
 	int next_small = 0 , next_long =0;
 	
 	for (;;)
